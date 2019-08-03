@@ -48,7 +48,7 @@ hr {
     position: relative;
 
 
-    background: url(/imeges/intro.jpg) center no-repeat;
+    background: url(imeges/intro.jpg) center no-repeat;
     -webkit-background-size: cover;
     background-size: cover; 
 }
