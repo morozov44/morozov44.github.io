@@ -238,7 +238,7 @@ hr {
     margin-bottom: 40px;
     padding-bottom: 0;
 
-    background: url(/imeges/gadgets/fon_2.jpg) no-repeat center;
+    background: url(/./MoGo/imeges/gadgets/fon_2.jpg) no-repeat center;
     -webkit-background-size: cover;
     background-size: cover;
 }
@@ -246,13 +246,13 @@ hr {
     background-color: #f8f8f8;
 }
 .section--clients {
-    background: #f1f1f1 url(/imeges/clients/fon3.jpg) no-repeat center;
+    background: #f1f1f1 url(/./MoGo/imeges/clients/fon3.jpg) no-repeat center;
     -webkit-background-size: cover;
     background-size: cover;
 }
 .section--map {
     padding: 40px 0;
-    background: #e6e6e6 url(/imeges/blog/mir.jpg) center no-repeat;
+    background: #e6e6e6 url(/./MoGo/imeges/blog/mir.jpg) center no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
 }
