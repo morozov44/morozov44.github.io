@@ -48,7 +48,7 @@ hr {
     position: relative;
 
 
-    background: url(MoGo/imeges/intro.jpg) center no-repeat;
+    background: url(/./MoGo/imeges/intro.jpg) center no-repeat;
     -webkit-background-size: cover;
     background-size: cover; 
 }
